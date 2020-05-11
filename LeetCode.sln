@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArrayAndStrings", "ArrayAndStrings", "{3810849D-F50C-43DE-BF12-50F43DDA4EB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TreesAndGraphs", "TreesAndGraphs", "{CE84ADA0-AA62-4A07-9CB8-6E7A32508CCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Design", "Design", "{6C4EE841-A38B-4AD5-BDF9-66420CB5B34A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicProgramming", "DynamicProgramming", "{A947C7D2-F9F7-419A-B5CA-77360A8F1A05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkedLists", "LinkedLists", "{26DA97C2-C57D-498B-96F2-59431827C52B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Others", "Others", "{6312161D-4994-4AEB-B70E-A82DBDD61415}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion", "Recursion", "{EECE1405-E800-4F04-AF48-17D4F5067237}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SortingAndSearching", "SortingAndSearching", "{FF94CA9C-FA8E-4FA3-88F4-A9EFAA7A25AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.GroupAnagrams", "ArrayAndStrings\LeetCode.GroupAnagrams\LeetCode.GroupAnagrams.csproj", "{CCBE4BA3-48E4-4316-A918-DEA39C9105BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.AddTwoNumbers", "LinkedLists\LeetCode.AddTwoNumbers\LeetCode.AddTwoNumbers.csproj", "{389CF897-1A15-4791-9317-47B08223A11E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumSubarray", "LeetCode.MaximumSubarray\LeetCode.MaximumSubarray.csproj", "{0A0246A3-1A2D-4AB9-B59F-03B7D81883E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBE4BA3-48E4-4316-A918-DEA39C9105BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBE4BA3-48E4-4316-A918-DEA39C9105BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBE4BA3-48E4-4316-A918-DEA39C9105BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBE4BA3-48E4-4316-A918-DEA39C9105BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{389CF897-1A15-4791-9317-47B08223A11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389CF897-1A15-4791-9317-47B08223A11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389CF897-1A15-4791-9317-47B08223A11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389CF897-1A15-4791-9317-47B08223A11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0246A3-1A2D-4AB9-B59F-03B7D81883E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0246A3-1A2D-4AB9-B59F-03B7D81883E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0246A3-1A2D-4AB9-B59F-03B7D81883E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0246A3-1A2D-4AB9-B59F-03B7D81883E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CCBE4BA3-48E4-4316-A918-DEA39C9105BC} = {3810849D-F50C-43DE-BF12-50F43DDA4EB3}
+		{389CF897-1A15-4791-9317-47B08223A11E} = {26DA97C2-C57D-498B-96F2-59431827C52B}
+		{0A0246A3-1A2D-4AB9-B59F-03B7D81883E2} = {A947C7D2-F9F7-419A-B5CA-77360A8F1A05}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E02329B-71E5-414D-9437-F435A7D68FAF}
+	EndGlobalSection
+EndGlobal
