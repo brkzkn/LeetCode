@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.AddTwoNumbers", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumSubarray", "DynamicProgramming\LeetCode.MaximumSubarray\LeetCode.MaximumSubarray.csproj", "{98A66497-803D-4C63-874C-C6E090E1321C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.TwoSum", "ArrayAndStrings\LeetCode.TwoSum\LeetCode.TwoSum.csproj", "{E9422D4D-3879-420E-9B30-A1CAEC06A884}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{98A66497-803D-4C63-874C-C6E090E1321C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98A66497-803D-4C63-874C-C6E090E1321C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98A66497-803D-4C63-874C-C6E090E1321C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9422D4D-3879-420E-9B30-A1CAEC06A884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9422D4D-3879-420E-9B30-A1CAEC06A884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9422D4D-3879-420E-9B30-A1CAEC06A884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9422D4D-3879-420E-9B30-A1CAEC06A884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +57,7 @@ Global
 		{CCBE4BA3-48E4-4316-A918-DEA39C9105BC} = {3810849D-F50C-43DE-BF12-50F43DDA4EB3}
 		{389CF897-1A15-4791-9317-47B08223A11E} = {26DA97C2-C57D-498B-96F2-59431827C52B}
 		{98A66497-803D-4C63-874C-C6E090E1321C} = {A947C7D2-F9F7-419A-B5CA-77360A8F1A05}
+		{E9422D4D-3879-420E-9B30-A1CAEC06A884} = {3810849D-F50C-43DE-BF12-50F43DDA4EB3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9E02329B-71E5-414D-9437-F435A7D68FAF}
