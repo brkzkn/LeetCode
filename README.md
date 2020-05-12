@@ -80,7 +80,7 @@ As you can see below lists, there are a lot of questions. You can choose one of 
 - [ ] Flatten Nested List Iterator
 - [ ] Range Sum Query 2D - Mutable
 
-### Dynamic Programming
+### [Dynamic Programming](https://github.com/brkzkn/LeetCode/tree/master/DynamicProgramming/)
 - [ ] Longest Palindromic Substring
 - [ ] Maximum Subarray
 - [ ] Best Time to Buy and Sell Stock
@@ -100,7 +100,7 @@ As you can see below lists, there are a lot of questions. You can choose one of 
 - [ ] Word Break II
 - [ ] Burst Balloons
 
-### Linked Lists
+### [Linked Lists](https://github.com/brkzkn/LeetCode/tree/master/LinkedLists/)
 - [ ] Add Two Numbers
 - [ ] Merge Two Sorted Lists
 - [ ] Reverse Nodes in k-Group
