@@ -8,7 +8,7 @@ As you can see below lists, there are a lot of questions. You can choose one of 
 
 ## Questions
 
-### Arrays and Strings
+### [Arrays and Strings](https://github.com/brkzkn/LeetCode/tree/master/ArrayAndStrings)
 
 - [ ] Two Sum
 - [ ] Longest Substring Without Repeating Characters
