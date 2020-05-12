@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-You can find the answer to questions that are group by difficulty, company, and topic in this repo.
+You can find the answer to LeetCode's questions that are group by difficulty, company, and topic in this repo.
 
 All codes are written by c#. Please don't hesitate to create an issue, if you see a mistake, wrong solution/information.
 
@@ -20,7 +20,7 @@ As you can see below lists, there are a lot of questions. You can choose one of 
 - [ ] 3Sum Closest
 - [ ] Implement strStr()
 - [ ] Rotate Image
-- [ ] Group Anagrams
+- [x] [Group Anagrams](https://github.com/brkzkn/LeetCode/tree/master/ArrayAndStrings/LeetCode.GroupAnagrams)
 - [ ] Minimum Window Substring
 - [ ] Compare Version Numbers
 - [ ] Product of Array Except Self
