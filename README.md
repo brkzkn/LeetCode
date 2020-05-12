@@ -4,7 +4,7 @@ You can find the answer to LeetCode's questions that are group by difficulty, co
 
 All codes are written by c#. Please don't hesitate to create an issue, if you see a mistake, wrong solution/information.
 
-As you can see below lists, there are a lot of questions. You can choose one of them and contribute it.
+As you can see below lists, there are a lot of questions. You can choose one of them and contribute it :)
 
 ## Questions
 
