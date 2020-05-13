@@ -23,9 +23,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.GroupAnagrams", "A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.AddTwoNumbers", "LinkedLists\LeetCode.AddTwoNumbers\LeetCode.AddTwoNumbers.csproj", "{389CF897-1A15-4791-9317-47B08223A11E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumSubarray", "DynamicProgramming\LeetCode.MaximumSubarray\LeetCode.MaximumSubarray.csproj", "{98A66497-803D-4C63-874C-C6E090E1321C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MaximumSubarray", "DynamicProgramming\LeetCode.MaximumSubarray\LeetCode.MaximumSubarray.csproj", "{98A66497-803D-4C63-874C-C6E090E1321C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.TwoSum", "ArrayAndStrings\LeetCode.TwoSum\LeetCode.TwoSum.csproj", "{E9422D4D-3879-420E-9B30-A1CAEC06A884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.TwoSum", "ArrayAndStrings\LeetCode.TwoSum\LeetCode.TwoSum.csproj", "{E9422D4D-3879-420E-9B30-A1CAEC06A884}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9131AA37-5B40-4BFF-9E09-B1EBD0BD9E07}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
