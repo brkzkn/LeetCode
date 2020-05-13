@@ -10,7 +10,7 @@ As you can see below lists, there are a lot of questions. You can choose one of 
 
 ### [Arrays and Strings](https://github.com/brkzkn/LeetCode/tree/master/ArrayAndStrings)
 
-- [ ] Two Sum
+- [x] [Two Sum](https://github.com/brkzkn/LeetCode/tree/master/ArrayAndStrings/LeetCode.TwoSum)
 - [ ] Longest Substring Without Repeating Characters
 - [ ] String to Integer (atoi)
 - [ ] Container With Most Water
