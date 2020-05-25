@@ -10,8 +10,8 @@ namespace LeetCode.MaximumSubarray
         static void Main(string[] args)
         {
             int[] input = new int[] { -2, 1, -3, 4, -1, 2, 1, -5, 4 };
-            var result = MaxSubArray_Approach_1(input);
-            //var result = MaxSubArray_Approach_2(input);
+            //var result = MaxSubArray_Approach_1(input);
+            var result = MaxSubArray_Approach_2(input);
             //var result = MaxSubArray_Approach_3(input);
 
             Console.WriteLine(result);
@@ -68,7 +68,7 @@ namespace LeetCode.MaximumSubarray
 
         #region Approach 2: Greedy
 
-        public int MaxSubArray_Approach_2(int[] nums)
+        static int MaxSubArray_Approach_2(int[] nums)
         {
             /*
                 Complexity Analysis
