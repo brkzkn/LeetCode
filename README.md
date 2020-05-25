@@ -101,8 +101,8 @@ As you can see below lists, there are a lot of questions. You can choose one of 
 - [ ] Burst Balloons
 
 ### [Linked Lists](https://github.com/brkzkn/LeetCode/tree/master/LinkedLists/)
-- [x] Add Two Numbers(https://github.com/brkzkn/LeetCode/tree/master/LinkedLists/LeetCode.AddTwoNumbers)
-- [ ] Merge Two Sorted Lists
+- [x] [Add Two Numbers](https://github.com/brkzkn/LeetCode/tree/master/LinkedLists/LeetCode.AddTwoNumbers)
+- [x] [Merge Two Sorted Lists](https://github.com/brkzkn/LeetCode/tree/master/LinkedLists/LeetCode.MergedTwoSortedLists)
 - [ ] Reverse Nodes in k-Group
 - [ ] Copy List with Random Pointer
 - [ ] Reverse Linked List

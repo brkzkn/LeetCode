@@ -34,6 +34,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestSubstringWithoutRepeatingCharacters", "LeetCode.LongestSubstringWithoutRepeatingCharacters\LeetCode.LongestSubstringWithoutRepeatingCharacters.csproj", "{EF04C20E-534A-4616-941C-B463767DB2A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MergedTwoSortedLists", "LeetCode.MergedTwoSortedLists\LeetCode.MergedTwoSortedLists.csproj", "{7EC48F4B-9644-4D47-8178-DF3D9393EAAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,6 +62,10 @@ Global
 		{EF04C20E-534A-4616-941C-B463767DB2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF04C20E-534A-4616-941C-B463767DB2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF04C20E-534A-4616-941C-B463767DB2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC48F4B-9644-4D47-8178-DF3D9393EAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC48F4B-9644-4D47-8178-DF3D9393EAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC48F4B-9644-4D47-8178-DF3D9393EAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC48F4B-9644-4D47-8178-DF3D9393EAAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,6 +76,7 @@ Global
 		{98A66497-803D-4C63-874C-C6E090E1321C} = {A947C7D2-F9F7-419A-B5CA-77360A8F1A05}
 		{E9422D4D-3879-420E-9B30-A1CAEC06A884} = {3810849D-F50C-43DE-BF12-50F43DDA4EB3}
 		{EF04C20E-534A-4616-941C-B463767DB2A7} = {3810849D-F50C-43DE-BF12-50F43DDA4EB3}
+		{7EC48F4B-9644-4D47-8178-DF3D9393EAAE} = {26DA97C2-C57D-498B-96F2-59431827C52B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9E02329B-71E5-414D-9437-F435A7D68FAF}
