@@ -32,6 +32,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestSubstringWithoutRepeatingCharacters", "LeetCode.LongestSubstringWithoutRepeatingCharacters\LeetCode.LongestSubstringWithoutRepeatingCharacters.csproj", "{EF04C20E-534A-4616-941C-B463767DB2A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +56,10 @@ Global
 		{E9422D4D-3879-420E-9B30-A1CAEC06A884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9422D4D-3879-420E-9B30-A1CAEC06A884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9422D4D-3879-420E-9B30-A1CAEC06A884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF04C20E-534A-4616-941C-B463767DB2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF04C20E-534A-4616-941C-B463767DB2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF04C20E-534A-4616-941C-B463767DB2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF04C20E-534A-4616-941C-B463767DB2A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,6 +69,7 @@ Global
 		{389CF897-1A15-4791-9317-47B08223A11E} = {26DA97C2-C57D-498B-96F2-59431827C52B}
 		{98A66497-803D-4C63-874C-C6E090E1321C} = {A947C7D2-F9F7-419A-B5CA-77360A8F1A05}
 		{E9422D4D-3879-420E-9B30-A1CAEC06A884} = {3810849D-F50C-43DE-BF12-50F43DDA4EB3}
+		{EF04C20E-534A-4616-941C-B463767DB2A7} = {3810849D-F50C-43DE-BF12-50F43DDA4EB3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9E02329B-71E5-414D-9437-F435A7D68FAF}
