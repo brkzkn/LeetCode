@@ -38,6 +38,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.LongestSubstringWi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MergedTwoSortedLists", "LinkedLists\LeetCode.MergedTwoSortedLists\LeetCode.MergedTwoSortedLists.csproj", "{36A2881C-FDE9-4D71-9FFF-413C5E42D69E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LetterCombinationsOfAPhoneNumber", "Recursion\LeetCode.LetterCombinationsOfAPhoneNumber\LeetCode.LetterCombinationsOfAPhoneNumber.csproj", "{DAE30985-4321-4D3D-9CCC-5C36A8880E1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,6 +74,10 @@ Global
 		{36A2881C-FDE9-4D71-9FFF-413C5E42D69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36A2881C-FDE9-4D71-9FFF-413C5E42D69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36A2881C-FDE9-4D71-9FFF-413C5E42D69E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE30985-4321-4D3D-9CCC-5C36A8880E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE30985-4321-4D3D-9CCC-5C36A8880E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE30985-4321-4D3D-9CCC-5C36A8880E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE30985-4321-4D3D-9CCC-5C36A8880E1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -84,6 +90,7 @@ Global
 		{91BD879C-3C19-4A13-AB8A-69FFD2EB85F3} = {CE84ADA0-AA62-4A07-9CB8-6E7A32508CCE}
 		{5A2F5582-B8C6-42C1-A63E-4A88A9A1070D} = {3810849D-F50C-43DE-BF12-50F43DDA4EB3}
 		{36A2881C-FDE9-4D71-9FFF-413C5E42D69E} = {26DA97C2-C57D-498B-96F2-59431827C52B}
+		{DAE30985-4321-4D3D-9CCC-5C36A8880E1D} = {EECE1405-E800-4F04-AF48-17D4F5067237}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9E02329B-71E5-414D-9437-F435A7D68FAF}

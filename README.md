@@ -153,7 +153,7 @@ As you can see below lists, there are a lot of questions. You can choose one of 
 - [ ] Largest Rectangle in Histogram
 
 ### Recursion
-- [ ] Letter Combinations of a Phone Number
+- [x] [Letter Combinations of a Phone Number](https://github.com/brkzkn/LeetCode/tree/master/Recursion/LeetCode.LetterCombinationsOfAPhoneNumber)
 - [ ] Generate Parentheses
 - [ ] Word Search
 - [ ] Word Search II
