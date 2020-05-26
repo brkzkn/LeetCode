@@ -195,7 +195,7 @@ As you can see below lists, there are a lot of questions. You can choose one of 
 - [ ] Convert Sorted Array to Binary Search Tree
 
 ### Trees and Graphs
-- [ ] Validate Binary Search Tree
+- [x] [Validate Binary Search Tree](https://github.com/brkzkn/LeetCode/tree/master/TreesAndGraphs/LeetCode.ValidateBinarySearchTree)
 - [ ] Symmetric Tree
 - [ ] Binary Tree Level Order Traversal
 - [ ] Binary Tree Zigzag Level Order Traversal
