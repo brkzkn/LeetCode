@@ -48,6 +48,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.WordBreak", "Dynam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DesignTicTacToe", "Design\LeetCode.DesignTicTacToe\LeetCode.DesignTicTacToe.csproj", "{65336F80-99FE-4C33-B202-E02E46EF61F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.IntegerToRoman", "ArrayAndStrings\LeetCode.IntegerToRoman\LeetCode.IntegerToRoman.csproj", "{9FF32A69-9DC3-47FF-9AE5-D0929AD6A4F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,6 +104,10 @@ Global
 		{65336F80-99FE-4C33-B202-E02E46EF61F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65336F80-99FE-4C33-B202-E02E46EF61F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65336F80-99FE-4C33-B202-E02E46EF61F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF32A69-9DC3-47FF-9AE5-D0929AD6A4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF32A69-9DC3-47FF-9AE5-D0929AD6A4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF32A69-9DC3-47FF-9AE5-D0929AD6A4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF32A69-9DC3-47FF-9AE5-D0929AD6A4F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -119,6 +125,7 @@ Global
 		{15746A70-F68F-4DC4-9CB8-7CD6774363F4} = {EECE1405-E800-4F04-AF48-17D4F5067237}
 		{6399D720-E589-430B-8B1E-8EF7B3953693} = {A947C7D2-F9F7-419A-B5CA-77360A8F1A05}
 		{65336F80-99FE-4C33-B202-E02E46EF61F7} = {6C4EE841-A38B-4AD5-BDF9-66420CB5B34A}
+		{9FF32A69-9DC3-47FF-9AE5-D0929AD6A4F2} = {3810849D-F50C-43DE-BF12-50F43DDA4EB3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9E02329B-71E5-414D-9437-F435A7D68FAF}
