@@ -7,7 +7,8 @@ namespace LeetCode.RomanToInteger
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string roman = "LVIII";
+            Console.WriteLine($"Roman {roman} is equal to {RomanToInt(roman)}");
         }
 
         static int RomanToInt(string roman)
