@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.WordSearch", "Recu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.WordBreak", "DynamicProgramming\LeetCode.WordBreak\LeetCode.WordBreak.csproj", "{6399D720-E589-430B-8B1E-8EF7B3953693}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DesignTicTacToe", "Design\LeetCode.DesignTicTacToe\LeetCode.DesignTicTacToe.csproj", "{65336F80-99FE-4C33-B202-E02E46EF61F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,6 +98,10 @@ Global
 		{6399D720-E589-430B-8B1E-8EF7B3953693}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6399D720-E589-430B-8B1E-8EF7B3953693}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6399D720-E589-430B-8B1E-8EF7B3953693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65336F80-99FE-4C33-B202-E02E46EF61F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65336F80-99FE-4C33-B202-E02E46EF61F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65336F80-99FE-4C33-B202-E02E46EF61F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65336F80-99FE-4C33-B202-E02E46EF61F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -112,6 +118,7 @@ Global
 		{472B9C5E-7BC0-4081-AEF3-1241C86714DE} = {CE84ADA0-AA62-4A07-9CB8-6E7A32508CCE}
 		{15746A70-F68F-4DC4-9CB8-7CD6774363F4} = {EECE1405-E800-4F04-AF48-17D4F5067237}
 		{6399D720-E589-430B-8B1E-8EF7B3953693} = {A947C7D2-F9F7-419A-B5CA-77360A8F1A05}
+		{65336F80-99FE-4C33-B202-E02E46EF61F7} = {6C4EE841-A38B-4AD5-BDF9-66420CB5B34A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9E02329B-71E5-414D-9437-F435A7D68FAF}
