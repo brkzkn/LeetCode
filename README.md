@@ -155,7 +155,7 @@ As you can see below lists, there are a lot of questions. You can choose one of 
 ### Recursion
 - [x] [Letter Combinations of a Phone Number](https://github.com/brkzkn/LeetCode/tree/master/Recursion/LeetCode.LetterCombinationsOfAPhoneNumber)
 - [ ] Generate Parentheses 
-- [x] [Word Search] (https://github.com/brkzkn/LeetCode/tree/master/Recursion/LeetCode.WordSearch)
+- [x] [Word Search](https://github.com/brkzkn/LeetCode/tree/master/Recursion/LeetCode.WordSearch)
 - [ ] Word Search II
 
 ### Sorting and Searching
