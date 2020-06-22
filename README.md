@@ -14,8 +14,8 @@ As you can see below lists, there are a lot of questions. You can choose one of 
 - [x] [Longest Substring Without Repeating Characters](https://github.com/brkzkn/LeetCode/tree/master/ArrayAndStrings/LeetCode.LongestSubstringWithoutRepeatingCharacters)
 - [ ] String to Integer (atoi)
 - [ ] Container With Most Water
-- [ ] Integer to Roman
-- [ ] Roman to Integer
+- [x] [Integer to Roman](https://github.com/brkzkn/LeetCode/tree/master/ArrayAndStrings/LeetCode.IntegerToRoman)
+- [x] [Roman to Integer](https://github.com/brkzkn/LeetCode/tree/master/ArrayAndStrings/LeetCode.RomanToInteger)
 - [ ] 3Sum
 - [ ] 3Sum Closest
 - [ ] Implement strStr()
@@ -69,7 +69,7 @@ As you can see below lists, there are a lot of questions. You can choose one of 
 - [ ] Min Stack
 - [ ] Find Median from Data Stream
 - [ ] Serialize and Deserialize Binary Tree
-- [ ] Design Tic-Tac-Toe
+- [x] [Design Tic-Tac-Toe](https://github.com/brkzkn/LeetCode/tree/master/ArrayAndStrings/LeetCode.DesignTicTacToe)
 - [ ] Design Search Autocomplete System
 - [ ] Maximum Frequency Stack
 - [ ] Shuffle an Array
@@ -84,7 +84,7 @@ As you can see below lists, there are a lot of questions. You can choose one of 
 - [ ] Longest Palindromic Substring
 - [ ] Maximum Subarray
 - [ ] Best Time to Buy and Sell Stock
-- [ ] Word Break
+- [x] [Word Break](https://github.com/brkzkn/LeetCode/tree/master/DynamicProgramming/LeetCode.WordBreak)
 - [ ] Coin Change
 - [ ] Climbing Stairs
 - [ ] Best Time to Buy and Sell Stock
@@ -154,8 +154,8 @@ As you can see below lists, there are a lot of questions. You can choose one of 
 
 ### Recursion
 - [x] [Letter Combinations of a Phone Number](https://github.com/brkzkn/LeetCode/tree/master/Recursion/LeetCode.LetterCombinationsOfAPhoneNumber)
-- [ ] Generate Parentheses
-- [ ] Word Search
+- [] Generate Parentheses 
+- [x] [Word Search] (https://github.com/brkzkn/LeetCode/tree/master/Recursion/LeetCode.WordSearch)
 - [ ] Word Search II
 
 ### Sorting and Searching
@@ -196,7 +196,7 @@ As you can see below lists, there are a lot of questions. You can choose one of 
 
 ### Trees and Graphs
 - [x] [Validate Binary Search Tree](https://github.com/brkzkn/LeetCode/tree/master/TreesAndGraphs/LeetCode.ValidateBinarySearchTree)
-- [ ] Symmetric Tree
+- [x] [Symmetric Tree](https://github.com/brkzkn/LeetCode/tree/master/TreesAndGraphs/LeetCode.SymmetricTree)
 - [ ] Binary Tree Level Order Traversal
 - [ ] Binary Tree Zigzag Level Order Traversal
 - [ ] Binary Tree Maximum Path Sum
